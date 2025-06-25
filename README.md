@@ -104,7 +104,8 @@ This project involves a machine learning model trained to classify emotions from
 
 - **Accuracy**: 0.79  
 - **Macro Avg F1-Score**: 0.78  
-- **Weighted Avg F1-Score**: 0.79  
+- **Weighted Avg F1-Score**: 0.79
+- **Weighted Avg Precision**: 0.80
 
 ## Metrics Explained
 
