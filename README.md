@@ -162,3 +162,6 @@ Upload a .wav file (16kHz recommended).
 The app will play the audio.
 
 The predicted emotion will be shown on screen.
+
+## demo video Link
+https://drive.google.com/file/d/1jM8bubB0YTHdqh6UBhyydXIl2UGdAsJJ/view?usp=sharing
